@@ -1,5 +1,5 @@
 const helloWorld = () => {
-    console.group('hello world!')
-}
+  console.group('hello world!');
+};
 
 helloWorld();
